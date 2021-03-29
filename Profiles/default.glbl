@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>User Admin</description>
+      <initValue>'admin'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Test</description>
+      <initValue>'testing'</initValue>
+      <name>usersalah</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
